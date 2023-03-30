@@ -1,7 +1,7 @@
 {
 	"name": "react-portfolio-site-v4",
 	"private": true,
-	"version": "0.0.0",
+	"version": "1.0.0",
 	"type": "module",
 	"scripts": {
 		"dev": "vite",
@@ -18,7 +18,8 @@
 		"react-dom": "^18.2.0",
 		"react-router-dom": "^6.10.0",
 		"react-tilt": "^1.0.2",
-		"react-vertical-timeline-component": "^3.6.0"
+		"react-vertical-timeline-component": "^3.6.0",
+		"three": "^0.150.1"
 	},
 	"devDependencies": {
 		"@types/react": "^18.0.28",
